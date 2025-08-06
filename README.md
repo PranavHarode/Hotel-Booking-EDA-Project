@@ -65,6 +65,6 @@ This project explores a real-world dataset from a hotel booking system to uncove
 ##  Author
 
 **Pranav Harode**  
-[LinkedIn Profile](https://www.linkedin.com/in/YOUR_USERNAME)  
+[LinkedIn Profile](https://www.linkedin.com/in/pranav-harode-290910328/) 
 
 
